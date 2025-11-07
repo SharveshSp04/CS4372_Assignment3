@@ -1,6 +1,9 @@
 # CS4372_Assignment3
 # Deep Learning Project: CIFAR-10 Image Classification using Transfer Learning
 
+Here is the link to the dataset located in my drive -> https://drive.google.com/drive/folders/126wFW6HYN-LdCZfxWZfMkcjpoNAM2WAm?usp=share_link
+If it doesn't work, I would just search CIFAR-10 dataset or its the first dataset in the CNN-Project1.pdf
+
 ## Project Overview
 This project implements a CNN for image classification on CIFAR-10 using transfer learning with MobileNetV2. It satisfies all assignment requirements.
 
